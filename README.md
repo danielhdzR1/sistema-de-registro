@@ -1,4 +1,4 @@
-<h1>Barberia Alura</h1>
+<h1>Trabajo GitHub</h1>
 
 -Proyecto terminado.
 
