@@ -5,3 +5,5 @@
 Para ejecutar el sisitema debes poner:
 
 ```nmp install react```
+
+sistema de registro 2
